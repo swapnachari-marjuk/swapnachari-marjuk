@@ -22,8 +22,6 @@ Recently completed a full web development course and now focused on applying my 
 
 ### 🛠️ Tools & Technologies I Use
 
----
-
 **Frontend:**  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
