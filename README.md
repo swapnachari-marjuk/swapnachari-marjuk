@@ -3,7 +3,7 @@
 
 ---
 
-<img width="1200" height="530" alt="my-cover" src="https://github.com/user-attachments/assets/61da2620-f280-4211-8d7e-f150d1fcaa23" />
+<img width="1584" height="396" alt="Black Yellow Modern Programmer LinkedIn Banner" src="https://github.com/user-attachments/assets/3416b71b-b457-43dd-9a7c-dd1bd0d3bf06" />
 
 ---
 
