@@ -16,7 +16,7 @@ Recently completed a full web development course and now focused on applying my 
 ---
 
 ### 🚀 What I'm Doing Now
-- Currently developing a **full-stack courier service management web application**  
+- Currently exploring **NextJs**  
 - Strengthening my core skills in **MERN stack**  
 - Improving my understanding of **API design & backend architecture**  
 
