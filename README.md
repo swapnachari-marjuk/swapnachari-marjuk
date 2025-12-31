@@ -7,7 +7,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swapnachari-marjuk&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=swapnachari-marjuk&theme=dark" alt="GitHub Streak" /></a>
 
 ### 👨‍💻 About Me
 I’m a MERN-focused junior developer passionate about building full-stack web applications.  
