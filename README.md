@@ -7,8 +7,6 @@
 
 ---
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=swapnachari-marjuk&show_icons=true&theme=radical)
-
 ### 👨‍💻 About Me
 I’m a MERN-focused junior developer passionate about building full-stack web applications.  
 Recently completed a full web development course and now focused on applying my skills through real projects.
