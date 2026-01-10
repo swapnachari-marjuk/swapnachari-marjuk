@@ -14,7 +14,7 @@ Recently completed a full web development course and now focused on applying my 
 ---
 
 ### 🚀 What I'm Doing Now
-- Currently exploring **NextJs**  
+- Currently exploring **NextJs & Typescript**  
 - Strengthening my core skills in **MERN stack**  
 - Improving my understanding of **API design & backend architecture**  
 
@@ -45,7 +45,7 @@ Recently completed a full web development course and now focused on applying my 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-**Learning:** <br/>
+**Exploring:** <br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
