@@ -44,6 +44,12 @@ Recently completed a full web development course and now focused on applying my 
 **Others / Version Control:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Problem Solving**
+
+  <a href="https://www.codewars.com/users/swapnachari-marjuk">
+    <img src="https://www.codewars.com/users/swapnachari-marjuk/badges/small" alt="Codewars">
+  </a>
+
 
 **Exploring:** <br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
