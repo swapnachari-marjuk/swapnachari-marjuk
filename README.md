@@ -59,7 +59,7 @@ Recently completed a full web development course and now focused on applying my 
 
 ### 📫 Social Links
 - **LinkedIn:** https://www.linkedin.com/in/ahmad-marjuk/
-- **Facebook:** https://web.facebook.com/ahmad.marjuk.869863
+- **Facebook:** https://web.facebook.com/ahmad.marjuk.dev
 
 ---
 
