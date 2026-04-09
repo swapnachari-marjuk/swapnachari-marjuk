@@ -54,8 +54,6 @@ Recently completed a full web development course and now focused on applying my 
 
 **Exploring:** <br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
 ---
 
 ### 📫 Social Links
